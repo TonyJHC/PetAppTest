@@ -1,5 +1,7 @@
-package com.example.petapptest.models;
+package com.example.petapptest.models.Entity;
 
+import com.example.petapptest.models.Dto.PetReqDto;
+import com.example.petapptest.models.Timestamped;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import org.springframework.web.bind.annotation.RequestBody;

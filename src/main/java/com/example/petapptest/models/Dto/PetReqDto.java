@@ -1,4 +1,4 @@
-package com.example.petapptest.models;
+package com.example.petapptest.models.Dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

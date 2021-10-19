@@ -1,10 +1,9 @@
 package com.example.petapptest.controller;
 
-import com.example.petapptest.models.Pet;
+import com.example.petapptest.models.Entity.Pet;
 import com.example.petapptest.models.PetRepository;
-import com.example.petapptest.models.PetReqDto;
+import com.example.petapptest.models.Dto.PetReqDto;
 import com.example.petapptest.service.PetService;
-import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

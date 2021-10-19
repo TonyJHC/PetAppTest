@@ -1,14 +1,11 @@
 package com.example.petapptest.service;
 
 
-import com.example.petapptest.controller.PetController;
-import com.example.petapptest.models.Pet;
+import com.example.petapptest.models.Entity.Pet;
 import com.example.petapptest.models.PetRepository;
-import com.example.petapptest.models.PetReqDto;
+import com.example.petapptest.models.Dto.PetReqDto;
 import lombok.RequiredArgsConstructor;
-import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestBody;
 
 import javax.transaction.Transactional;
 
