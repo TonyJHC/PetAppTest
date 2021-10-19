@@ -1,7 +1,7 @@
 package com.example.petapptest.controller;
 
 import com.example.petapptest.models.Entity.Pet;
-import com.example.petapptest.models.PetRepository;
+import com.example.petapptest.models.Repo.PetRepository;
 import com.example.petapptest.models.Dto.PetReqDto;
 import com.example.petapptest.service.PetService;
 import lombok.RequiredArgsConstructor;

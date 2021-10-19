@@ -2,7 +2,7 @@ package com.example.petapptest.service;
 
 
 import com.example.petapptest.models.Entity.Pet;
-import com.example.petapptest.models.PetRepository;
+import com.example.petapptest.models.Repo.PetRepository;
 import com.example.petapptest.models.Dto.PetReqDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
