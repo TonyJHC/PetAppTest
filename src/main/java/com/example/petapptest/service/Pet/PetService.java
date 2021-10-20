@@ -1,4 +1,4 @@
-package com.example.petapptest.service;
+package com.example.petapptest.service.Pet;
 
 
 import com.example.petapptest.models.Entity.Pet;
